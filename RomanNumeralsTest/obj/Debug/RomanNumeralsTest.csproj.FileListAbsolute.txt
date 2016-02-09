@@ -1,0 +1,7 @@
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.csprojResolveAssemblyReference.cache
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\bin\Debug\RomanNumeralsTest.dll
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\bin\Debug\RomanNumeralsTest.pdb
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\bin\Debug\RomanNumber-TDD.dll
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\bin\Debug\RomanNumber-TDD.pdb
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.dll
+c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.pdb

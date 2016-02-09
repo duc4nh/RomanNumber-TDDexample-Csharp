@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumber-TDD\RomanNumerals.csproj", "{FB568287-3A3F-480D-9F92-E56CAB3046EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsTest", "RomanNumeralsTest\RomanNumeralsTest.csproj", "{1B2415CE-0BEB-4D20-A1AD-7CF241D99971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB568287-3A3F-480D-9F92-E56CAB3046EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB568287-3A3F-480D-9F92-E56CAB3046EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB568287-3A3F-480D-9F92-E56CAB3046EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB568287-3A3F-480D-9F92-E56CAB3046EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2415CE-0BEB-4D20-A1AD-7CF241D99971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2415CE-0BEB-4D20-A1AD-7CF241D99971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2415CE-0BEB-4D20-A1AD-7CF241D99971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2415CE-0BEB-4D20-A1AD-7CF241D99971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
