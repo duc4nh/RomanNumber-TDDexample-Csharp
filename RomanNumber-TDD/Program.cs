@@ -10,7 +10,14 @@ namespace RomanNumerals
     {
         public String Convert(int number)
         {
-            return "I";
+            StringBuilder result = new StringBuilder();
+
+            for (int i = 0; i < number; i++)
+            {
+                result.Append("I");
+            }
+
+            return result.ToString();
         }
     }
 }

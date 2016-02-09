@@ -3,4 +3,3 @@ c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumber-T
 c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumber-TDD\bin\Debug\RomanNumber-TDD.pdb
 c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumber-TDD\obj\Debug\RomanNumber-TDD.dll
 c:\users\duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumber-TDD\obj\Debug\RomanNumber-TDD.pdb
-C:\Users\Duc\documents\visual studio 2012\Projects\RomanNumber-TDD\RomanNumber-TDD\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
